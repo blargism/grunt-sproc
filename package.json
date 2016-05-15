@@ -1,7 +1,7 @@
 {
   "name": "grunt-sproc",
   "description": "Run sproc definitions on change.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "",
   "author": {
     "name": "Joe Mills",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://bitbucket.org/blargism/tccadmin.git"
+    "url": "https://github.com/blargism/grunt-sproc"
   },
   "bugs": {
     "url": ""
