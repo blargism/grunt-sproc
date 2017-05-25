@@ -33,6 +33,7 @@ module.exports = function(grunt) {
           grunt.log.warn('Source file "' + filepath + '" not found.');
           return false;
         }
+        grunt.log.write("Running: " + filepath);
         var query = grunt.file.read(filepath);
 
         fns.push(function(query, filepath) {
